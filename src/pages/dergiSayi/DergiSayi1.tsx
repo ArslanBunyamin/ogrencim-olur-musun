@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 
 const DergiSayi1 = () => {
   const [isMounted, setIsMounted] = useState(false)
-  const pdfUrl = 'https://online.fliphtml5.com/msayn/flzt/'
+  const pdfUrl = 'https://online.flippingbook.com/view/77638965/'
 
   useEffect(() => {
     setIsMounted(true)
