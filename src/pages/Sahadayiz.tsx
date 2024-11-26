@@ -142,7 +142,7 @@ const Sahadayiz = (props: Props) => {
             Ankara Büyükşehir Belediyesine işbirliğiyle Ahmetler Çocuk Kulübünde
             üniversiteli öğrenciler ortaokul öğrencilerine hobi atölyeleri
             düzenlendi. Kodlama, Yaratı Yazarlık, Hayal, Mucitlik ve Bilim
-            atölyeleri ile çocuklara eğlenirken öğretmek amaçlanmıştır.{" "}
+            atölyeleri ile çocuklara eğlenirken öğretmek amaçlanmıştır.
           </p>
           <div className="columns-2 sm:columns-3  py-8 select-none gap-4">
             {ankara2022Fotolari.map((img, index) => {
